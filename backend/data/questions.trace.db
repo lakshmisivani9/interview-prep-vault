@@ -1,0 +1,4 @@
+2026-06-20 15:13:26.865847+05:30 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "QUESTION" not found; SQL statement:
+INSERT INTO QUESTION (ID, ANSWER, DIFFICULTY, QUESTION, TOPIC)
+VALUES (1, 'Java is a high-level object-oriented programming language', 'Easy', 'What is Java?', 'Java') [42102-240]
