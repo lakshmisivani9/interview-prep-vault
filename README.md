@@ -35,7 +35,8 @@ Interview Prep Vault is a full-stack application where users can store and pract
 ## Learning Outcome
 
 Learned how frontend and backend communicate, how APIs are created, how authentication works, and how data is stored in a database.
- ## Screenshots
+
+## Screenshots
 
 ### Landing Page
 <img src="./screenshots/page.png" width="700"/>
