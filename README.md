@@ -51,7 +51,7 @@ Learned how frontend and backend communicate, how APIs are created, how authenti
 ![Home Page](https://raw.githubusercontent.com/lakshmisivani9/interview-prep-vault/main/screenshots/home.png)
 
 ### Add Question Page
-https://github.com/lakshmisivani9/interview-prep-vault/blob/main/srceenshots/addques.png
+![Add Question](https://raw.githubusercontent.com/lakshmisivani9/interview-prep-vault/main/screenshots/addques.png)
 
 ### Questions Page
 ![Questions](https://raw.githubusercontent.com/lakshmisivani9/interview-prep-vault/main/screenshots/ques.png)
