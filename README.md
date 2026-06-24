@@ -39,19 +39,19 @@ Learned how frontend and backend communicate, how APIs are created, how authenti
 ## Screenshots
 
 ### Landing Page
-![Landing Page](screenshots/page.png)
+![Landing Page](https://raw.githubusercontent.com/lakshmisivani9/interview-prep-vault/main/screenshots/page.png)
 
 ### Login Page
-![Login Page](screenshots/login.png)
+![Login Page](https://raw.githubusercontent.com/lakshmisivani9/interview-prep-vault/main/screenshots/login.png)
 
 ### Register Page
-![Register Page](screenshots/register.png)
+![Register Page](https://raw.githubusercontent.com/lakshmisivani9/interview-prep-vault/main/screenshots/register.png)
 
 ### Home Page
-![Home Page](screenshots/home.png)
+![Home Page](https://raw.githubusercontent.com/lakshmisivani9/interview-prep-vault/main/screenshots/home.png)
 
 ### Add Question Page
-![Add Question](screenshots/addques.png)
+![Add Question](https://raw.githubusercontent.com/lakshmisivani9/interview-prep-vault/main/screenshots/addques.png)
 
 ### Questions Page
-![Questions](screenshots/ques.png)
+![Questions](https://raw.githubusercontent.com/lakshmisivani9/interview-prep-vault/main/screenshots/ques.png)
