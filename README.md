@@ -35,23 +35,3 @@ Interview Prep Vault is a full-stack application where users can store and pract
 ## Learning Outcome
 
 Learned how frontend and backend communicate, how APIs are created, how authentication works, and how data is stored in a database.
-
-## Screenshots
-
-### Landing Page
-![Landing Page](https://raw.githubusercontent.com/lakshmisivani9/interview-prep-vault/main/screenshots/page.png)
-
-### Login Page
-![Login Page](https://raw.githubusercontent.com/lakshmisivani9/interview-prep-vault/main/screenshots/login.png)
-
-### Register Page
-![Register Page](https://raw.githubusercontent.com/lakshmisivani9/interview-prep-vault/main/screenshots/register.png)
-
-### Home Page
-![Home Page](https://raw.githubusercontent.com/lakshmisivani9/interview-prep-vault/main/screenshots/home.png)
-
-### Add Question Page
-![Add Question](https://raw.githubusercontent.com/lakshmisivani9/interview-prep-vault/main/screenshots/addques.png)
-
-### Questions Page
-![Questions](https://raw.githubusercontent.com/lakshmisivani9/interview-prep-vault/main/screenshots/ques.png)
