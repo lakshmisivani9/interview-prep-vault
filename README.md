@@ -39,19 +39,19 @@ Learned how frontend and backend communicate, how APIs are created, how authenti
 ## Screenshots
 
 ### Landing Page
-<img src="./screenshots/page.png" width="700"/>
+![Landing Page](screenshots/page.png)
 
 ### Login Page
-<img src="./screenshots/login.png" width="700"/>
+![Login Page](screenshots/login.png)
 
 ### Register Page
-<img src="./screenshots/register.png" width="700"/>
+![Register Page](screenshots/register.png)
 
 ### Home Page
-<img src="./screenshots/home.png" width="700"/>
+![Home Page](screenshots/home.png)
 
 ### Add Question Page
-<img src="./screenshots/addques.png" width="700"/>
+![Add Question](screenshots/addques.png)
 
 ### Questions Page
-<img src="./screenshots/ques.png" width="700"/>
+![Questions](screenshots/ques.png)
